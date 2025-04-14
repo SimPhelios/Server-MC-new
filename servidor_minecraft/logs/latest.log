@@ -62,3 +62,25 @@
 [04:45:07] [Server thread/INFO]: Tenashi_ drowned
 [04:47:31] [Server thread/INFO]: Tenashi_ fell from a high place
 [04:50:28] [Server thread/INFO]: Aztreo hit the ground too hard
+[04:59:57] [Server thread/INFO]: Tenashi_ lost connection: Timed out
+[04:59:57] [Server thread/INFO]: Tenashi_ left the game
+[04:59:57] [Server thread/WARN]: handleDisconnection() called twice
+[05:00:03] [Server thread/INFO]: Tenashi_[/127.96.113.121:56321] logged in with entity id 19440 at (-821.9604945823685, 82.17675927506424, 337.6938030077695)
+[05:00:03] [Server thread/INFO]: Tenashi_ joined the game
+[05:01:26] [Server thread/INFO]: Tenashi_ was shot by Skeleton
+[05:02:40] [Server thread/INFO]: Tenashi_ was slain by SimPhelios
+[05:03:01] [Server thread/INFO]: Tenashi_ was slain by SimPhelios
+[05:03:05] [Server thread/INFO]: SimPhelios was slain by Tenashi_
+[05:03:24] [Server thread/INFO]: SimPhelios was slain by Tenashi_
+[05:07:00] [Server thread/INFO]: Tenashi_ hit the ground too hard
+[05:09:00] [Server thread/INFO]: [Not Secure] <SimPhelios> 164 53 398
+[05:17:13] [Server thread/INFO]: Tenashi_ fell from a high place
+[05:19:34] [Server thread/INFO]: SimPhelios fell from a high place
+[05:23:12] [Server thread/INFO]: Aztreo was blown up by Creeper
+[05:27:00] [Server thread/INFO]: Tenashi_ fell from a high place
+[05:27:23] [Server thread/INFO]: SimPhelios lost connection: Disconnected
+[05:27:23] [Server thread/INFO]: SimPhelios left the game
+[05:27:26] [Server thread/INFO]: Tenashi_ lost connection: Disconnected
+[05:27:26] [Server thread/INFO]: Tenashi_ left the game
+[05:27:31] [Server thread/INFO]: Aztreo lost connection: Disconnected
+[05:27:31] [Server thread/INFO]: Aztreo left the game
