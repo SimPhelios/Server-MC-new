@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-14 04:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-04-14 04:34:03 +0000"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-14 04:37:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-14 04:23:18 +0000"
@@ -759,6 +771,7 @@
     "criteria": {
       "minecraft:beach": "2025-04-14 04:15:00 +0000",
       "minecraft:forest": "2025-04-14 04:14:51 +0000",
+      "minecraft:ocean": "2025-04-14 04:36:21 +0000",
       "minecraft:river": "2025-04-14 04:26:20 +0000",
       "minecraft:plains": "2025-04-14 04:11:33 +0000"
     },
@@ -835,6 +848,12 @@
       "rotten_flesh": "2025-04-14 04:25:59 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-14 04:37:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
@@ -941,6 +960,12 @@
   "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-14 04:18:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-14 04:42:59 +0000"
     },
     "done": true
   },
